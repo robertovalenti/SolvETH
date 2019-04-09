@@ -1,6 +1,9 @@
+/* https://github.com/robertovalenti/SolvETH/ is developed by Roberto Valenti 
+and licensed under the GNU General Public License v3.0 */
+
 pragma solidity >=0.4.22 <0.6.0;
 
-library SolvEth {
+library SolvETH {
     
     //babylonian square root
     function sqrt(int x) pure public returns (int y)  {
